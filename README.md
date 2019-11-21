@@ -21,7 +21,7 @@ Veja como iniciar nesse [Getting Started](https://flutter.dev/clock).
 Veja as exigências conforme desafio original nesse [Submission Requirements](https://flutter.dev/clock).
 A medida que o pessoal for evoluindo no desafio podemos mudar algumas coisas, mas se for submeter para o desafio original siga todas as exigências e regras rigorosamente.
 
-##### AVD - Emulador
+#### AVD - Emulador
 Um dos requisitos diz:
 > The clock design should use landscape mode, with a 5:3 aspect ratio.
 

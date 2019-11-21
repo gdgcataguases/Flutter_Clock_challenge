@@ -1,5 +1,5 @@
 # Flutter Clock challenge
-Foi lançado um desafio pela Google Assistent e Lenovo para criar uma face de relógio com `flutter` para o Smart Clock da [Lenovo](https://www.lenovo.com/gb/en/smart-clock/) a nível mundial com premiações incríveis! 
+Foi lançado um desafio pela Google Assistent e Lenovo para criar uma face de relógio com `flutter` para o Smart Clock da [Lenovo](https://www.lenovo.com/gb/en/smart-clock/) a nível mundial com premiações incríveis!
 
 Você pode conferir esse desafio na íntegra em [Take the Flutter Clock challenge](https://flutter.dev/clock) a data de submissão é dia 20 de janeiro de 2020.
 
@@ -13,7 +13,7 @@ Que tal fazer o mesmo desafio entre o pessoal do GDG Cataguases? Vamos usar as m
 
 No dia **14 de janeiro de 2020** iremos fazer um Meetup para mostrar o que pessoal conseguiu desenvolver e falar sobre. Neste dia você dever apresentar somente um projeto; ~~para concorrer a um prêmio bacana~~.
 
-## Vamos começar 
+## Vamos começar
 Você já pode iniciar com um modelo base (analógico ou digital) disponiabilizado no github do flutter.
 Veja como iniciar nesse [Getting Started](https://flutter.dev/clock).
 
@@ -21,15 +21,19 @@ Veja como iniciar nesse [Getting Started](https://flutter.dev/clock).
 Veja as exigências conforme desafio original nesse [Submission Requirements](https://flutter.dev/clock).
 A medida que o pessoal for evoluindo no desafio podemos mudar algumas coisas, mas se for submeter para o desafio original siga todas as exigências e regras rigorosamente.
 
-## Regras 
+##### AVD - Emulador
+Um dos requisitos diz:
+> The clock design should use landscape mode, with a 5:3 aspect ratio.
+
+Preparei [esse guia](avd/avd_guide.md) para facilitar a criação de sua AVD.
+
+## Regras
 Todas as regras estão no [Contest Rules](https://flutter.dev/clock).
 
 ---
 
-**Este é um conteúdo inicial do desafio, aos poucos vamos melhora-lo para facilitar a criação do design do seu relógio!!!**
+**Este é um conteúdo inicial do desafio, aos poucos vamos melhora-lo para facilitar a criação do design do seu relógio!!! Mas pode conferir o conteúdo original pois será bem semelhante**
 
-O tempo está passando... :alarm_clock: 
+O tempo está passando... :alarm_clock:
 
 #FlutterClock
-
-
